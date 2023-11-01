@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperledger.fabric.samples.privatedata.AssetTransferTest$QueryReadAssetTransaction" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-10-28T06:20:19" hostname="DESKTOP-IF7UGRH" time="1.638">
+  <properties/>
+  <testcase name="whenAssetDoesNotExist()" classname="org.hyperledger.fabric.samples.privatedata.AssetTransferTest$QueryReadAssetTransaction" time="1.638"/>
+  <system-out><![CDATA[ReadAsset: collection assetCollection, ID 460110100010001
+Asset not found: ID 460110100010001
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
